@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on multiple projects, some on behalf of my company, some for fun. More detail later\
 🌱 I’m currently improving my C# skills\
 💬 Ask me about ... whatever you want :)\
-📫 You can reach me using the email on my profile or via [Telegram](https://t.me/fabricatorsltd)\
+📫 You can reach me using the email on my profile or via [Telegram](https://t.me/fabricatorsltd)
 
 ![pietrodicaprio's github stats](https://github-readme-stats.vercel.app/api?username=pietrodicaprio&custom_title=Stats&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true)
 
