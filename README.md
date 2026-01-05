@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 💬 Ask me about ... whatever you want :)\
 📫 You can reach me using the email on my profile or via [![Telegram: fabricatorsltd](https://img.shields.io/badge/-fabricatorssrl-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/fabricatorsltd/)
 
-![pietrodicaprio's github stats](https://github-readme-stats.vercel.app/api?username=pietrodicaprio&custom_title=Stats&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pietrodicaprio&rank=-?,-C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 Check out [fabricatorsltd](https://github.com/fabricatorsltd), [VanillaOS](https://github.com/Vanilla-OS) and [BottlesDevs](https://github.com/bottlesdevs)
 
 [![Linkedin: Pietro di Caprio](https://img.shields.io/badge/-Pietro%20di%20Caprio-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-di-caprio)
