@@ -15,7 +15,7 @@ Check out [fabricatorsltd](https://github.com/fabricatorsltd), [VanillaOS](https
 
 Don't forget to say hi 👋 to my fellow [mirkobrombin](https://github.com/mirkobrombin)
 
-## Stats?
+## Stats?
 
 ![Stats](./profile/stats.svg)\
 ![Languages](./profile/languages.svg)
