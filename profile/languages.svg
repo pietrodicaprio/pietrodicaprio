@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">pietrodicaprio&#39;s languages</title>
-  <desc id="descId">SQL: 42.1%, JSON: 24.3%, C#: 10.8%, Lua: 5.6%, Go: 5.5%, YAML: 3.8%, Other: 7.9%. calculated analyzing all 352 pull requests</desc>
+  <desc id="descId">SQL: 42.0%, JSON: 24.2%, C#: 10.8%, Go: 5.7%, Lua: 5.6%, YAML: 3.8%, Other: 7.9%. calculated analyzing all 352 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -39,8 +39,8 @@
       --lang-0: #d57f00;
       --lang-1: #292929;
       --lang-2: #178600;
-      --lang-3: #000080;
-      --lang-4: #00a0cb;
+      --lang-3: #00a0cb;
+      --lang-4: #000080;
       --lang-5: #cb171e;
       --lang-6: #8b949e;
     }
@@ -49,8 +49,8 @@
       --lang-0: #e38c00;
       --lang-1: #616161;
       --lang-2: #178600;
-      --lang-3: #2958cd;
-      --lang-4: #00add8;
+      --lang-3: #00add8;
+      --lang-4: #2958cd;
       --lang-5: #cb171e;
       --lang-6: #8b949e;
       }
@@ -68,12 +68,12 @@
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">SQL</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">42.1%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">42.0%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
         <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">24.3%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">24.2%</text>
       </g>
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
@@ -82,13 +82,13 @@
       </g>
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
-        <text class="name" x="16" y="11">Lua</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">5.6%</text>
+        <text class="name" x="16" y="11">Go</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">5.7%</text>
       </g>
       <g class="entry" style="animation-delay: 400ms" transform="translate(0.0, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-4)"/>
-        <text class="name" x="16" y="11">Go</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">5.5%</text>
+        <text class="name" x="16" y="11">Lua</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">5.6%</text>
       </g>
       <g class="entry" style="animation-delay: 470ms" transform="translate(211.5, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-5)"/>
