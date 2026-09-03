@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">pietrodicaprio&#39;s languages</title>
-  <desc id="descId">SQL: 41.6%, JSON: 24.0%, C#: 10.7%, Go: 6.4%, Lua: 5.6%, YAML: 3.7%, Other: 8.0%. calculated analyzing all 372 pull requests</desc>
+  <desc id="descId">SQL: 41.6%, JSON: 24.0%, C#: 10.7%, Go: 6.3%, Lua: 5.5%, YAML: 3.8%, Other: 8.1%. calculated analyzing all 374 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -83,24 +83,24 @@
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
         <text class="name" x="16" y="11">Go</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">6.4%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">6.3%</text>
       </g>
       <g class="entry" style="animation-delay: 400ms" transform="translate(0.0, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-4)"/>
         <text class="name" x="16" y="11">Lua</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">5.6%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">5.5%</text>
       </g>
       <g class="entry" style="animation-delay: 470ms" transform="translate(211.5, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-5)"/>
         <text class="name" x="16" y="11">YAML</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">3.7%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">3.8%</text>
       </g>
       <g class="entry" style="animation-delay: 540ms" transform="translate(0.0, 63)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-6)"/>
         <text class="name" x="16" y="11">Other</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">8.0%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">8.1%</text>
       </g>
     </g>
-    <text class="note" x="0" y="100">calculated analyzing all 372 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing all 374 pull requests</text>
   </g>
 </svg>
