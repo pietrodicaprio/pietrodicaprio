@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">pietrodicaprio&#39;s languages</title>
-  <desc id="descId">SQL: 33.5%, C#: 23.4%, JSON: 19.5%, Go: 5.7%, Lua: 4.5%, Svelte: 3.3%, Other: 10.1%. calculated analyzing all 469 pull requests</desc>
+  <desc id="descId">SQL: 33.5%, C#: 23.4%, JSON: 19.5%, Go: 5.7%, Lua: 4.5%, Svelte: 3.3%, Other: 10.1%. calculated analyzing all 470 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -101,6 +101,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">10.1%</text>
       </g>
     </g>
-    <text class="note" x="0" y="100">calculated analyzing all 469 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing all 470 pull requests</text>
   </g>
 </svg>
